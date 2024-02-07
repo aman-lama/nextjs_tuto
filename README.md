@@ -1,5 +1,6 @@
 
-I want to work in a field where I can analyze data to find valuable insights. At the same time, I'm interested in creating visually appealing and user-friendly websites. I'm drawn to the creative side of making websites look good and ensuring they're easy to use. To achieve this
+I want to work in a field where I can analyze data to find valuable insights. At the same time, I'm interested in creating visually appealing and user-friendly websites. I'm drawn to the creative side of making websites look good and ensuring they're easy to use. To achieve this. For that, I have some future goals regarding my career and tools to be used.
+
 
 Why Data Analysis?
 I enjoy data analysis because it allows me to uncover meaningful patterns and insights from raw information, transforming it into valuable knowledge. One aspect I appreciate is its adaptability, as data analysis is applicable across various fields, from business and healthcare to marketing and sports. Hopefully, my skills in data analysis can help me enter the field of sports as it is  a combination of my interests. To achieve this, I plan to deepen my skills in tools like Python, Power BI, Tableau, SQL and spreadsheets.
