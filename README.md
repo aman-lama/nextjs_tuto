@@ -34,3 +34,14 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+
+
+
+
+
+
+<!-- NORI Goals: -->
+
+After learning skills through hands on practical experience in work, I'd like to to be able to create an application on my own with the most updated design trends and adding my own flavor to it. Any idea of my own that would hopefully automate some social need. Apart from including all the design trends and mainting an aesthetic and user friendly UI, I'd also like to be able to implement backend logic using any of my preferred languages. I'd also like to integrate AI into this project for which i'd like to learn different AI algorithms and use them to enhance the applications experience and make it viable in the current IT generation.
