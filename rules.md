@@ -1,0 +1,1 @@
+1. Always write your components under common components folder or under your folder. If using common components folder always name your file as "yourname_component_name" 

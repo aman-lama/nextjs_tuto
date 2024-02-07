@@ -11,6 +11,7 @@ bun dev
 
 This will be hosted in Link `nextjs-tuto-virid.vercel.app`
 
+`Do pull this new updates to your machines`
 
 STEP 1:
 Creating a Router in Next.js:
