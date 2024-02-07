@@ -34,3 +34,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Goals
+
+As a future front-end developer, my primary goal is to master cutting-edge technologies and frameworks, with a specific focus on leveraging Next.js to create dynamic and performant web applications. I aspire to create seamless user experiences by implementing responsive and intuitive interfaces. Additionally, I aim to stay abreast of industry trends and best practices, incorporating various tools and libraries to enhance the development process. By continually expanding my skill set and staying adaptable to emerging technologies, I aim to contribute to innovative and user-centric web solutions in the ever-evolving landscape of front-end development. g
