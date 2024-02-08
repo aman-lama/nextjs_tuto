@@ -89,21 +89,26 @@ export default function Home() {
           <code>Please get your pages ready to dive into coding. You are free to customize your button as you want.</code>
           </p>
         </Link>
-        <Link
+
+        <Link  
           href="/Piyush"
-          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
-          rel="noopener noreferrer"
-        >
-          <h2 className={`mb-3 text-2xl font-semibold`}>
-            Piyush{" "}
-            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
-              -&gt;
-            </span>
-          </h2>
-          <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-          <code>Please get your pages ready to dive into coding. You are free to customize your button as you want.</code>
-          </p>
+          className="group rounded-lg border border-transparent px-5 py-4 transition-all duration-300 ease-in-out hover:border-gray-300 hover:bg-gray-700 hover:text-white hover:dark:border-neutral-700 hover:dark:bg-neutral-600/30 hover:dark:text-white flex items-center justify-between"
+          rel="noopener noreferrer">
+          <h2 className="mb-0 text-2xl font-semibold text-white">Piyush</h2>
+          <div className="flex items-center">
+            <svg
+            xmlns="http://www.w3.org/2000/svg"
+            className="h-6 w-6 mr-2 text-gray-300 transform group-hover:rotate-90 transition-transform duration-300"
+            viewBox="0 0 20 20"
+            fill="currentColor">
+              <path
+              fillRule="evenodd"
+              d="M5.293 6.293a1 1 0 011.414 0l4 4a1 1 0 01-1.414 1.414L6 9.414V15a1 1 0 11-2 0V5a1 1 0 011-1h10a1 1 0 110 2H6.586l2.293 2.293a1 1 0 01-1.414 1.414l-4-4a1 1 0 010-1.414z"
+              clipRule="evenodd"/>
+            </svg>
+          </div>
         </Link>
+
         <Link
           href="/riya"
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
