@@ -1,9 +1,3 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-## Getting Started
-
-First, run the development server:
-
 ```bash
 npm run dev
 # or
@@ -14,28 +8,21 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+This will be hosted in Link `nextjs-tuto-virid.vercel.app`
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+`Do pull this new updates to your machines`
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+STEP 1:
+Creating a Router in Next.js:
 
-## Learn More
+Rename your [your_url] folder with the link it redirects to. eg: "~/Piyush" would be Piyush. [case sensitive]
+You can do more research on different cases in folder architecture. eg: difference between (ayush) and ayush.
 
-To learn more about Next.js, take a look at the following resources:
+STEP 2:
+Create a Page.tsx file with layout.tsx
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+(layout.tsx) file lets you statically load components in every subpages. Eg: Components like Header,Footer or Context may be included in layout.tsx
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+You can start editing the page by modifying `~/page.tsx`. The page auto-updates as you edit the file.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-
-## things want to learn
-
--explore Next.JS
--create e-commerce projects using Next.JS
