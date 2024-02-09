@@ -24,5 +24,3 @@ Create a Page.tsx file with layout.tsx
 (layout.tsx) file lets you statically load components in every subpages. Eg: Components like Header,Footer or Context may be included in layout.tsx
 
 You can start editing the page by modifying `~/page.tsx`. The page auto-updates as you edit the file.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
