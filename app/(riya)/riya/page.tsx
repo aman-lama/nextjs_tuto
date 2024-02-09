@@ -3,8 +3,8 @@ export default function Riya() {
     <>
       <section className="home" id="home">
         <div className="home-content grid gap-1 place-content-center h-48">
-          <h3>Hello, It's Me.</h3>
-          <h1>Riya Shrestha</h1>
+          <h3>Hello</h3>
+          <h1>I am Riya Shrestha.</h1>
 
           <a
             href={
