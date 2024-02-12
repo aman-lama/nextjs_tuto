@@ -28,5 +28,3 @@ Create a Page.tsx file with layout.tsx
 
 
 You can start editing the page by modifying `~/page.tsx`. The page auto-updates as you edit the file.
-
-
