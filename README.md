@@ -15,7 +15,7 @@ bun dev
 
 ## [x] STEP 1: Creating a Router in Next.js:
 
-> Rename your [your_url] folder with the link it redirects to. eg: "~/nori" would be Piyush. [case sensitive] You can do more research on different cases in folder architecture. eg: difference between (ayush) and ayush.
+> Rename your [your_url] folder with the link it redirects to. eg: "~/nori" would be nori. [case sensitive] You can do more research on different cases in folder architecture. eg: difference between (ayush) and ayush.
 
 ## [x] STEP 2: Create a Page.tsx file with layout.tsx
 
